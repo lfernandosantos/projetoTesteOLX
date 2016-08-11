@@ -9,7 +9,7 @@ Feature: Anuncio
 	And informo a descrição "Vendo Filhote de labrador 2 meses"
 	And informo o preço "500"
 	And informo o CEP "26562110"
-	And seleciono a opção "submit_preview"
+	And seleciono a opção "submit_create_now"
 	Then devo ver o resultado "foi publicado" 
 	
 	Scenario: Visualizar novo anuncio
