@@ -1,0 +1,6 @@
+Feature: Busca de Anúncios
+
+	Scenario: Busca por Palavra Cahve
+	Scenraio: Busca por Título
+	Scenario: Busca por Categorias
+	Scenario: Busca nenhum resultado
